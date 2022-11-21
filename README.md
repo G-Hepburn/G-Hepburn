@@ -35,6 +35,37 @@ Here are some ideas to get you started:
 A postgraduate biomedical science (blood science) student vehement about developing the niche research area that combines computer science and life science. Passionate about merging artificial intelligence, machine learning, deep learning and biological sciences to enhance animal behaviour and neuroscience research. A self motivated, hardworking individual always keen to learn and improve skills in the field of artificial intelligence and life science research to produce novel science literature.
 
 <br />
+<h3> Education :book:  : </h3>
+
+- Biomedical Science (Blood Science) MSc (Awaiting results)
+- Biomedical Science Postgraduate Diploma (2021)
+- Biology with Minor in Chemistry BSc (2020)
 <br />
+
+<h3> Research Skills :mag_right: : </h3>
+
+- Neural Network training and evaluation using Google Colaboratory
+- Pose estimation marking using DeepLabCut
+- Quantitative and qualitative data collection
+- Data analysis
+- Read mapping using Galaxy
+- Coding via Jupyter notebook and Google Colaboratory
+- Graph plotting via Microsoft Excel
 <br />
+
+<h3> Get in Touch :speech_balloon: : </h3>
+
+- Find me on any of these platforms: 
+<p>
+<a href="https://www.instagram.com/giachiia/">
+<img src="https://img.shields.io/badge/<giachiia>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/gia-hepburn-796361243/">
+<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/G-Hepburn">
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
 
