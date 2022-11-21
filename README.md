@@ -1,4 +1,5 @@
-### Hi there 👋
+
+### Hi, I'm Gia! :woman_technologist: :woman_scientist:
 
 <!--
 **G-Hepburn/G-Hepburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
