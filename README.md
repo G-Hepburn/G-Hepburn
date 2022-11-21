@@ -1,5 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1es0suLtBMuZcRBtvl/giphy.gif" width="400"/>
+</div>
 
-### Hi, I'm Gia! :woman_technologist: :woman_scientist:
+### Hi, I'm Gia! :woman_technologist: :woman_scientist: ✨
 
 <!--
 **G-Hepburn/G-Hepburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
