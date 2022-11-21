@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/zdhgBtpANvh6G6ERNz/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/zdhgBtpANvh6G6ERNz/giphy.gif" width="450"/>
   <img src="https://compote.slate.com/images/30cde9b2-65c2-4a5c-9fe2-4d5ffe5b2c81.gif?width=2200" width="450"/>
 </div>
 
