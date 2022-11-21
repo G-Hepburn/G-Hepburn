@@ -65,5 +65,6 @@ A postgraduate biomedical science (blood science) student vehement about develop
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
+<br />
 
-
+**Fun Fact**: I'm from The Bahamas 🇧🇸 but I live in the UK 🇬🇧
