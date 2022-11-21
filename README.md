@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/xT0BKr4MvHdohFTe6s/giphy.gif" width="450"/>
-</div>
+
 
 
 <div id="header" align="center">
