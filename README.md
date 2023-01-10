@@ -35,7 +35,7 @@ A postgraduate biomedical science (blood science) graduate vehement about develo
 <br />
 <h3> Education :book:  : </h3>
 
-- Biomedical Science (Blood Science) MSc (Awaiting results)
+- Biomedical Science (Blood Science) MSc (Merit)
 - Biomedical Science Postgraduate Diploma (2021)
 - Biology with Minor in Chemistry BSc (2020)
 <br />
