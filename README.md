@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <h2> ✨About Me✨  </h2>
 
-A postgraduate biomedical science (blood science) student vehement about developing the niche research area that combines computer science and life science. Passionate about merging artificial intelligence, machine learning, deep learning and biological sciences to enhance animal behaviour and neuroscience research. A self motivated, hardworking individual always keen to learn and improve skills in the field of artificial intelligence and life science research to produce novel scientific literature.
+A postgraduate biomedical science (blood science) graduate vehement about developing the niche research area that combines computer science and life science. Passionate about merging artificial intelligence, machine learning, deep learning and biological sciences to enhance animal behaviour and neuroscience research. A self motivated, hardworking individual always keen to learn and improve skills in the field of artificial intelligence and life science research to produce novel scientific literature.
 
 <br />
 <h3> Education :book:  : </h3>
